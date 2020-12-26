@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/courses/courses.iml" filepath="$PROJECT_DIR$/courses/courses.iml" />
       <module fileurl="file://$PROJECT_DIR$/timetables.iml" filepath="$PROJECT_DIR$/timetables.iml" />
     </modules>
   </component>
